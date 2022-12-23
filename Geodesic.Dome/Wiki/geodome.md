@@ -15,7 +15,6 @@
             <img src="building.block_together_pack.jpg" width=300 align=center> 
         </td>
     </tr>
-
     <tr>
         <td>
             <img src="fiveangle.jpg" width=300 align=center> 
@@ -30,10 +29,6 @@
             <img src="sixangle.and.fiveangle_pack.jpg" width=300 align=center> 
         </td>
     </tr>
-
-
-
-
 </table>
 
 ---
