@@ -1,4 +1,4 @@
-# Geodom
+# Geodome
 
 <table>
     <tr>
