@@ -1,11 +1,7 @@
 # diy-3d
 ## Clock
 ## Geodesic Dome
-<!-- * [Central Access Point](Wiki/CentralAccessPoint/centralAccessPoint.md) -->
-[![Image](Geodesic.Dome/Wiki/Ball.jpg)](Wiki/CentralAccessPoint/centralAccessPoint.md "Description")
-
-<!--    <img src="Geodesic.Dome/Wiki/Ball.jpg" width=300 align=center> -->
-
+    [![Image](Geodesic.Dome/Wiki/Ball.jpg)](Geodesic.Dome/Wiki/geodom.md "Geodom")
 ## Pipe holder
 ## Bathroom
 ### Shaving brush holder
