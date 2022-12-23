@@ -29,6 +29,11 @@
             <img src="sixangle.and.fiveangle_pack.jpg" width=300 align=center> 
         </td>
     </tr>
+    <tr>
+        <td colspan="4">
+            <img src="ball.jpg" align=center> 
+        </td>
+    </tr>
 </table>
 
 ---
